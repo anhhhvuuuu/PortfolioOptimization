@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import mysql.connector as msql
+# import mysql.connector as msql
 import timeit
 
 from utils.functions import get_returns, print_time, print_rs_allocation, rs_weights

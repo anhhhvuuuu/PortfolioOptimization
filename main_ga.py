@@ -1,5 +1,5 @@
 import timeit
-import mysql.connector as msql
+# import mysql.connector as msql
 from nsga2.optimizer import Optimizer
 from utils.functions import *
 from utils.graphs import *
